@@ -5,7 +5,7 @@ public class Main {
 		helloWorld.run();
 		
 		BFCKinterpreter cat = new BFCKinterpreter("cat.bfck");
-		//cat.run();
+		cat.run();
 		
 		
 	}
